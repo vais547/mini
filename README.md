@@ -154,3 +154,8 @@ plt.xlabel("Epoch #")
 plt.ylabel("Loss/Accuracy")
 plt.legend(loc="lower left")
 plt.savefig(args["plot"])
+
+
+
+fake currency link refer;
+https://ieeexplore.ieee.org/abstract/document/9432274
