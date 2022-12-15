@@ -161,3 +161,6 @@ fake currency link refer;
 https://ieeexplore.ieee.org/abstract/document/9432274
 
 https://projectgurukul.org/fake-currency-detection-machine-learning/
+
+image captioning
+https://www.kaggle.com/code/hsankesara/image-captioning
