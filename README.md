@@ -164,3 +164,5 @@ https://projectgurukul.org/fake-currency-detection-machine-learning/
 
 image captioning
 https://www.kaggle.com/code/hsankesara/image-captioning
+
+https://github.com/dudeanurag/Fake-Currency-Identification/blob/master/banknote_authentication.ipynb
