@@ -166,3 +166,5 @@ image captioning
 https://www.kaggle.com/code/hsankesara/image-captioning
 
 https://github.com/dudeanurag/Fake-Currency-Identification/blob/master/banknote_authentication.ipynb
+
+{"username":"peralapalke","key":"39415f5a797397e703c2af77efe79a86"}
