@@ -170,3 +170,5 @@ https://github.com/dudeanurag/Fake-Currency-Identification/blob/master/banknote_
 {"username":"peralapalke","key":"39415f5a797397e703c2af77efe79a86"}
 
 https://www.kaggle.com/datasets/shobhit18th/indian-currency-notes
+
+http://math.oit.edu/~overholserr/current/math407/notes/math407_day11.pdf
