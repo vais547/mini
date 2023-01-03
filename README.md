@@ -174,3 +174,8 @@ https://www.kaggle.com/datasets/shobhit18th/indian-currency-notes
 http://math.oit.edu/~overholserr/current/math407/notes/math407_day11.pdf
 
 https://colab.research.google.com/drive/1zZYzd0jUh0dNC3b7wjEKqvkVdbd7_t0Z#scrollTo=qTNm7jqRUpMk
+
+
+<br>traffic sign detection:<br>
+
+https://www.analyticsvidhya.com/blog/2021/12/traffic-signs-recognition-using-cnn-and-keras-in-python
