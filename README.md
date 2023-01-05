@@ -189,3 +189,5 @@ https://www.sciencedirect.com/science/article/pii/S2046043022000557#:~:text=An%2
 https://towardsdatascience.com/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
 
 https://towardsdatascience.com/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
+
+https://medium.com/towards-data-science/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
