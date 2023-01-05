@@ -187,3 +187,5 @@ https://data-flair.training/blogs/python-project-traffic-signs-recognition/#:~:t
 https://www.sciencedirect.com/science/article/pii/S2046043022000557#:~:text=An%20original%20dataset%20for%20Indian,instances%20present%20in%20the%20image.
 
 https://towardsdatascience.com/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
+
+https://towardsdatascience.com/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
