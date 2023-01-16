@@ -158,6 +158,9 @@ plt.savefig(args["plot"])
 
 
 fake currency link refer;
+
+https://www.kaggle.com/code/hanishkumarh/notebook982e3ead85
+
 https://ieeexplore.ieee.org/abstract/document/9432274
 
 https://projectgurukul.org/fake-currency-detection-machine-learning/
