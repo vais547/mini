@@ -197,3 +197,5 @@ https://medium.com/towards-data-science/traffic-sign-recognition-using-deep-neur
 
 credit card fraud detection:
 https://sci-hub.hkvisa.net/10.1109/ICICCS51141.2021.9432308
+
+https://www.sciencedirect.com/science/article/pii/S2772662223000036#b16
