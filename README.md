@@ -194,3 +194,6 @@ https://towardsdatascience.com/traffic-sign-recognition-using-deep-neural-networ
 https://towardsdatascience.com/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
 
 https://medium.com/towards-data-science/traffic-sign-recognition-using-deep-neural-networks-6abdb51d8b70
+
+credit card fraud detection:
+https://sci-hub.hkvisa.net/10.1109/ICICCS51141.2021.9432308
