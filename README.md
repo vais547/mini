@@ -199,3 +199,8 @@ credit card fraud detection:
 https://sci-hub.hkvisa.net/10.1109/ICICCS51141.2021.9432308
 
 https://www.sciencedirect.com/science/article/pii/S2772662223000036#b16
+
+https://www.researchgate.net/profile/Sarika-Jain-2/publication/332264296_A_comparative_analysis_of_various_credit_card_fraud_detection_techniques/links/5d46e13f92851cd046a0b3ec/A-comparative-analysis-of-various-credit-card-fraud-detection-techniques.pdf
+
+
+https://www.researchgate.net/publication/330350286_Title_REVIEW_ON_VARIOUS_METHODS_FOR_FRAUD_TRANSACTION_DETECTION_IN_CREDIT_CARDS_HARDIK_MANEKNIKHIL_KATARIASUJAI_JAINPROFCHITRA_BHOLE_To_Secure_Your_Paper_As_Per_UGC_Guidelines_We_Are_Providing_A_Elect
