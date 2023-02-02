@@ -206,3 +206,5 @@ https://www.researchgate.net/profile/Sarika-Jain-2/publication/332264296_A_compa
 https://www.researchgate.net/publication/330350286_Title_REVIEW_ON_VARIOUS_METHODS_FOR_FRAUD_TRANSACTION_DETECTION_IN_CREDIT_CARDS_HARDIK_MANEKNIKHIL_KATARIASUJAI_JAINPROFCHITRA_BHOLE_To_Secure_Your_Paper_As_Per_UGC_Guidelines_We_Are_Providing_A_Elect
 
 https://sci-hub.hkvisa.net/10.1109/INFOTEH.2019.8717766
+
+https://thesai.org/Downloads/Volume11No12/Paper_65-Fraud_Detection_in_Credit_Cards.pdf<br>refer this
