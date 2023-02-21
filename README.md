@@ -210,4 +210,6 @@ https://sci-hub.hkvisa.net/10.1109/INFOTEH.2019.8717766
 https://thesai.org/Downloads/Volume11No12/Paper_65-Fraud_Detection_in_Credit_Cards.pdf<br>
 
 https://www.slideshare.net/venkatjavaprojects/credit-card-fraud-analysis-using-predictive-modeling-python-project-abstract
+
+https://www.slideshare.net/ajmalanbu/credit-card-fraud-detection-pptx-1-1
 refer this
