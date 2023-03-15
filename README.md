@@ -213,3 +213,4 @@ https://www.slideshare.net/venkatjavaprojects/credit-card-fraud-analysis-using-p
 
 https://www.slideshare.net/ajmalanbu/credit-card-fraud-detection-pptx-1-1
 refer this
+https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/  
