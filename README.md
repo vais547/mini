@@ -218,3 +218,5 @@ https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-lea
 https://colab.research.google.com/drive/1qCpe-NeBvmNT4DmgAT38-VsuN9WtZQ4d?usp=sharing
 
 https://www.slideshare.net/irjetjournal/credit-card-fraud-detection-using-predictive-modelling
+
+https://issuu.com/irjet/docs/irjet-v7i8271
