@@ -220,3 +220,6 @@ https://colab.research.google.com/drive/1qCpe-NeBvmNT4DmgAT38-VsuN9WtZQ4d?usp=sh
 https://www.slideshare.net/irjetjournal/credit-card-fraud-detection-using-predictive-modelling
 
 https://issuu.com/irjet/docs/irjet-v7i8271
+
+resume personality prediction:
+http://localhost:8892/notebooks/Untitled13.ipynb
