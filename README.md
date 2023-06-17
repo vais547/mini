@@ -223,3 +223,14 @@ https://issuu.com/irjet/docs/irjet-v7i8271
 
 resume personality prediction:
 http://localhost:8892/notebooks/Untitled13.ipynb
+
+prediction of sonar rock:
+https://www.kaggle.com/datasets/armanakbari/connectionist-bench-sonar-mines-vs-rocks
+
+**http://math.furman.edu/~dcs/courses/math47/R/library/mlbench/html/Sonar.html**
+
+https://ijarcce.com/wp-content/uploads/2022/07/IJARCCE.2022.11793.pdf
+
+https://www.jetir.org/papers/JETIR2211457.pdf
+
+https://www.irjmets.com/uploadedfiles/paper/issue_4_april_2022/21936/final/fin_irjmets1651487003.pdf
