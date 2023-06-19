@@ -234,3 +234,9 @@ https://ijarcce.com/wp-content/uploads/2022/07/IJARCCE.2022.11793.pdf
 https://www.jetir.org/papers/JETIR2211457.pdf
 
 https://www.irjmets.com/uploadedfiles/paper/issue_4_april_2022/21936/final/fin_irjmets1651487003.pdf
+
+https://www.jetir.org/papers/JETIR1907H24.pdf
+
+https://drive.google.com/drive/my-drive
+
+https://www.ijres.org/papers/Volume-11/Issue-2/1102130135.pdf
